@@ -1,6 +1,3 @@
-/**
- * Created by Ivaylo on 15.9.2016 г..
- */
 (function () {
     let promise = new Promise((resolve, reject) => {
         resolve();
